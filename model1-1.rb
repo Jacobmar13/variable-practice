@@ -7,3 +7,5 @@ cat_age = 2
 fiancee_age = 24
 
 looking_to_move = true
+
+potential_move_areas = ["Aurora", "Littleton", "Westminster"]
